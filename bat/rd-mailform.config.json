@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "stmp.gmail.com",              
+  "port": 465,													 
+  "username": "client.vetcenter@gmail.com",					 
+  "password": "vetcenter2024",						 
+  "recipientEmail":  "thenorthamigo@gmail.com"
+}
