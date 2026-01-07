@@ -268,12 +268,17 @@ html p a:hover {
 	border-bottom: 1px solid #ddd;
 }
 
+.service-item:last-child {
+  border-bottom: none;
+}
+
 .service-item > .price {
 	background-color: #f0f0f0;
 	font-style: italic;
     font-variant: petite-caps;
 	font-weight: bold;
 	text-wrap-mode: nowrap;
+	height: min-content;
     padding: 5px 10px;
     border-radius: 10px;
 }
